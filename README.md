@@ -13,7 +13,7 @@
 
 ### My Bio
 
-I’m a Senior Software Engineer specialized in large-scale solutions and complex challenges. At JetBridge/Invitae, I helped boosting genetic test orders by 30% and led system merge post-acquisition by Labcorp. Previously, I spent seven years at Banco do Brasil building mainframe monitoring tools and leading RabbitMQ/Celery/WebSockets teams, plus spearheading a Brazilian Federal Police’s forensic project with Python/Django. Always eager to learn, collaborate, and innovate.
+I’m a Senior Software Engineer specialized in large-scale solutions and complex challenges. I helped boosting genetic test at Invitae orders by 30% and led system merge post-acquisition by Labcorp. Previously, I spent seven years at Banco do Brasil building mainframe monitoring tools and leading RabbitMQ/Celery/WebSockets teams, plus spearheading a Brazilian Federal Police’s forensic project with Python/Django. Always eager to learn, collaborate, and innovate.
 
 ---
 
