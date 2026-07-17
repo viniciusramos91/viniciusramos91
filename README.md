@@ -1,11 +1,12 @@
 <h1 align="center"> ✅ Welcome to my GitHub 🚀</h1>
 
 ### 👦 About me
-- 👋 My name is **Vinícius Ramos**, I’m 33 years old.
+- 👋 My name is **Vinícius Ramos**, I’m 35 years old.
 - 📌 From Brasília, Distrito Federal, Brazil.
 - 🎓 Graduated in Computer Engineering from the University of Brasília (UnB).
 - 🇺🇸 Working for international companies since 2020!
 - 👨‍🏫 Founder of [Python Academy](https://pythonacademy.com.br/), one of Brazil’s largest Python blogs.
+- 📑 Founder of [Ebookr](https://ebookr.ai) - an Ebook generator built with dozens of AI Agents. Check it out!
 - 💬 Ask me about **Python** and **Django**—I can help!
 - 🚀 Want to learn Python + Django? Check out my course: [Jornada Python](https://pythonacademy.com.br/jornada-python/)
 
